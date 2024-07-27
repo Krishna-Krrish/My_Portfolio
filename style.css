@@ -969,7 +969,12 @@ footer p{
     
     .projects{
       margin-top: 30px;
-      gap: 30px;  
+      gap: 30px;
+    }
+
+    .projects .img-card{
+        width: 120px;
+        height: 150px;
     }
 
     .contact h1{
